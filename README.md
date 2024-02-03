@@ -8,7 +8,7 @@ Material UI, React JS
 
 ### Working link
 
-[movie-showcase.vercel.app](movie-showcase.vercel.app)
+[movie-showcase.vercel.app](https://movie-showcase.vercel.app/)
 
 ## Screenshots
 
