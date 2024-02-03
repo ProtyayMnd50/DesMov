@@ -1,12 +1,15 @@
-# Entertainment Hub
-<table>
-<tr>
-<td>
-  Movie App built in React JS and Material UI.
-</td>
-</tr>
-</table>
+# DesMov
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+A web application build for movies and series
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+## Tech Stacks
+ 
+Material UI, React JS
+
+### Working link
+
+[movie-showcase.vercel.app](movie-showcase.vercel.app)
+
+## Screenshots
+
+![App Screenshot](./public/showcase_myapp/movie_app1.png)
